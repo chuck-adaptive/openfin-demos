@@ -25,7 +25,7 @@
                                     "componentName": "view",
                                     "componentState": {
                                         "name": "main-app",
-                                        "url": "http://localhost:5555/public/main-app.html"
+                                        "url": "https://chuck-adaptive.github.io/openfin-demos/notifications/public/main-app.html"
                                     }
                                 }
                             ]
@@ -40,7 +40,7 @@
             {
                 "saveWindowState": false,
                 "backgroundThrottling": true,
-                "url": "http://localhost:5555/public/notifications.html",
+                "url": "https://chuck-adaptive.github.io/openfin-demos/notifications/public/notifications.html",
                 "defaultTop": 480,
                 "defaultLeft": 900,
                 "defaultWidth": 400,
